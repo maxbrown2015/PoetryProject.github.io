@@ -1,5 +1,5 @@
 body, html {
-  background-image: url(subtle_white_waves.png);
+  background-image: url(lightpaperfibers_@2X.png);
   background-repeat:no-repeat;
   background-size: cover;
   margin: 0;
@@ -8,7 +8,7 @@ body, html {
 
 h1 {
   font: 50px 'Delius Swash Caps', Helvetica, Sans-serif;
-	color: #333;
+	color: #CC3131;
   text-align: center;
   margin: auto;
   padding-top: 200px;
@@ -21,7 +21,7 @@ h1 {
   padding: 10px;
 }
 .email-form {
-  margin-top: 100px;
+  margin-top: 50px;
   padding-left: 10px;
 }
 
