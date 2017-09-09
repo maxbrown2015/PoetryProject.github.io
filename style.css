@@ -1,5 +1,36 @@
-body {
-  background-image: image(subtle_white_waves.png);
+body, html {
+  background-image: url(subtle_white_waves.png);
   background-repeat:no-repeat;
   background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font: 50px 'Delius Swash Caps', Helvetica, Sans-serif;
+	color: #333;
+  text-align: center;
+  margin: auto;
+  padding-top: 200px;
+}
+
+.mc_embed_signup {
+  font: 28px sans-serif;
+  margin: auto;
+  width: 200px;
+  padding: 10px;
+}
+.email-form {
+  margin-top: 100px;
+  padding-left: 10px;
+}
+
+.subscribe-button {
+  padding-left: 10px;
+  width: 100px;
+}
+.center {
+  display: block;
+  margin: auto;
+  width: 50%;
 }
